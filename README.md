@@ -1,3 +1,7 @@
+# IMPORTANT NOTICE
+
+You are free to use this code, but it is totally unsupported. Various changes were needed for another project and a lot of the changes are custom for that project. It isn't backward compatible with the main flutter_iap branch.
+
 # flutter_iap
 
 Add _In-App Payments_ to your Flutter app with this plugin.
